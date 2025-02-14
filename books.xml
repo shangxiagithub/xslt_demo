@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<bookstore>
+    <book category="fiction">
+        <title lang="en">Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <year>2005</year>
+        <price>29.99</price>
+    </book>
+    <book category="non-fiction">
+        <title lang="en">History of the World</title>
+        <author>Various</author>
+        <year>2010</year>
+        <price>39.99</price>
+    </book>
+</bookstore>
